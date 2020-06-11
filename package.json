@@ -2,7 +2,7 @@
   "name": "Gametable-application",
   "version": "1.0.0",
   "description": "Example code for deploying mongo course",
-  "repository": "https://github.com/synedra/node_deploy",
+  "repository": "https://github.com/sixtyXi/test_deploy.git",
   "main": "app.js",
   "engines": {
     "node": ">=7.0"
